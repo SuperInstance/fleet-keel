@@ -1,0 +1,10 @@
+[package]
+name = "fleet-keel"
+version = "0.1.0"
+edition = "2024"
+description = "A 5-dimensional self-orientation system for fleet agents using only internal dynamics"
+license = "MIT"
+repository = "https://github.com/SuperInstance/fleet-keel"
+
+[dependencies]
+# No external dependencies — minimal surface area
